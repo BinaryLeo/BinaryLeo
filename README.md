@@ -19,7 +19,7 @@ const binaryleo = {
 
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=linux,js,react,nodejs,ts,kotlin,androidstudio,figma,idea,visualstudio,vscode,tailwind,styledcomponents,postgres&perline=7)](https://github.com/BinaryLeo)
+[![My Skills](https://skillicons.dev/icons?i=linux,js,react,nodejs,ts,graphql,aws,kotlin,androidstudio,figma,idea,visualstudio,vscode,tailwind,styledcomponents,postgres&perline=8)](https://github.com/BinaryLeo)
 
 For many years I have built Cordova hybrid applications as an independent developer. It allowed me to enjoy many projects, including for overseas customers in the USA.
 I'm always pushing to learn new technologies and to stay current, both at work and at home in my personal time. 

@@ -14,7 +14,7 @@ Hi there! Welcome to my Github page! I am Leonardo Moura, a Brazilian Mobile dev
 const binaryleo = {
   title: ["Mobile developer", "Front-end developer"],
   language: ["PT-BR 🇧🇷", "EN 🇨🇦", "NOR 🇳🇴", "FR 🇫🇷"],
-  askMeAbout: ["Mobile development", "UI", "],
+  askMeAbout: ["Mobile development", "UI","Figma"],
 };
 
 ```

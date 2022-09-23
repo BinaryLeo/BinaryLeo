@@ -25,6 +25,10 @@ For many years I have built Cordova hybrid applications as an independent develo
 I'm always pushing to learn new technologies and to stay current, both at work and at home in my personal time. 
 I like to spend time on DIY IoT Projects (C++), Design Windows GUI applications (Using Pyside2 / Windows forms C#) and study the Norwegian language.
 
+![Group 162](https://user-images.githubusercontent.com/72607039/192070035-82695d62-ff27-4d6e-a40f-30b089282d92.png)
+
+
+
 ![BinaryLeo ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=BinaryLeo&custom_title=BinaryLeo%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=7490ac&point=d8dee9)
   
 </div>

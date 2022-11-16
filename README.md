@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=binaryleo&color=008080" alt="Profile views " />
 
 
-Hey there! Welcome to my Github page! I am Leonardo Moura, a Brazilian mobile developer.
+Hi there! Welcome to my Github page! I am Leonardo Moura, a Brazilian mobile developer.
 I am currently learning Kotlin - Jetpack Compose and Swift - Swift UI
 
 <div>

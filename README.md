@@ -6,9 +6,10 @@
 <img src="https://komarev.com/ghpvc/?username=binaryleo&color=008080" alt="Profile views " />
 
 
-Hi there! Welcome to my Github page! I am Leonardo Moura, a Brazilian mobile developer.
-I am currently learning Kotlin - Jetpack Compose and Swift - Swift UI
-
+Hi there! Welcome to my GitHub page! I am Leonardo Moura a Brazilain Mobile developer with over 6 yrs of experience on build complex and friendly applications for small companies as an independent developer. Here you'll find my latest open-source projects. Keep In Touch to know more! I am currently learning Kotlin and Jetpack Compose.
+ - I won two mobile development contests in the last  6 years. 
+ - Published many applications on Google play.
+ - I've built a wide range of successful UI-UX for many projects, including for overseas customers.
 <div>
 
 ```javascript
@@ -18,18 +19,9 @@ const binaryleo = {
   askMeAbout: ["Mobile development", "UI","Figma"],
 };
 
+
 ```
-
-[![My Skills](https://skillicons.dev/icons?i=linux,js,react,nodejs,ts,graphql,aws,kotlin,androidstudio,figma,idea,visualstudio,vscode,tailwind,styledcomponents,postgres&perline=8)](https://github.com/BinaryLeo)
-
-For many years I have built Cordova hybrid applications as an independent developer. It allowed me to enjoy many projects, including for overseas customers in the USA.
-I'm always pushing to learn new technologies and to stay current, both at work and at home in my personal time. 
-I like to spend time on DIY IoT Projects (C++), Design Windows GUI applications (Using Pyside2 / Windows forms C#) and study the Norwegian language.
-
-![Group 162](https://user-images.githubusercontent.com/72607039/192070035-82695d62-ff27-4d6e-a40f-30b089282d92.png)
+![Group 171](https://user-images.githubusercontent.com/72607039/208580201-34011814-cfbf-427b-a475-e6cf0dfb8548.png)
 
 
-
-![BinaryLeo ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=BinaryLeo&custom_title=BinaryLeo%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=7490ac&point=d8dee9)
-  
 </div>

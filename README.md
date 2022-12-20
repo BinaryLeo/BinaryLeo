@@ -22,7 +22,11 @@ const binaryleo = {
 
 ```
  
- ![Group 173](https://user-images.githubusercontent.com/72607039/208582003-981373f5-9319-480e-99be-903d4e1b9267.png)
+
+
+
+![Group 175(1)](https://user-images.githubusercontent.com/72607039/208734323-b35e4eb7-6c54-4db7-9f1d-6296110e8572.png)
+
 
 
 </div>

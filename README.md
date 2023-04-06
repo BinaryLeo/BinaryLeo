@@ -6,9 +6,9 @@
 <img src="https://komarev.com/ghpvc/?username=binaryleo&color=008080" alt="Profile views " />
 
 
-Hello and welcome to my GitHub page! My name is Leonardo Moura, and I am a Brazilian mobile developer with over six years of experience building both user-friendly and complex applications as an independent developer for small companies. Here, you can find my latest open-source projects. Keep in touch for more exciting updates! Currently, I am expanding my skill set by learning Kotlin and Jetpack Compose.
+Hello and welcome to my GitHub page! My name is Leonardo Moura, I am an Android engineer with over 6 years of experience working on both indie projects and helping small companies bring their ideas to life through high-performance and user-friendly mobile applications that push the boundaries of what's visually possible. Through my extensive experience managing all aspects of mobile application development, including design, programming, testing, and launch, I bring a unique perspective to the table that can help increase creativity and innovation on any team.
 
-I am proud to have won two mobile development contests and to have published over six applications on the Play Store as an independent developer. Additionally, I have delivered numerous successful UI/UX designs for global clients.
+In addition to my technical skills, I have also 5 years of experience as a Senior Graphic Designer, honing my skills in visual design, typography, and branding. This combination of technical and creative expertise allows me to not only develop functional applications but also ensure they have a polished and engaging user interface.
 <div>
 
 ```javascript

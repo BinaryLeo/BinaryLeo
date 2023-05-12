@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=binaryleo&color=008080" alt="Profile views " />
 
 
-Hello and welcome to my GitHub! My name is Leonardo Augusto, I am an Android engineer with a strong knowledge of building high-performance and user-friendly mobile applications that push the boundaries of what's visually possible. I also have experience in developing Web and Windows- desktop solutions. In terms of preferences, I have a passion for developing solutions focused on sustainability, Animal conservation, renewable energy, IoT, and health. I also enjoy creating applications and games for the educational industry.
+Hello and welcome to my GitHub! My name is Leonardo Augusto, I am an Android engineer with a strong knowledge of building high-performance and user-friendly mobile applications that push the boundaries of what's visually possible. I also have experience in developing Web and Windows-desktop solutions. In terms of preferences, I have a passion for developing solutions focused on sustainability, Animal conservation, renewable energy, IoT, and health. I also enjoy creating applications and games for the educational industry.
 <div>
 
 ```javascript

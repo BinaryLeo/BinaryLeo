@@ -6,15 +6,30 @@
 <img src="https://komarev.com/ghpvc/?username=binaryleo&color=008080" alt="Profile views " />
 
 
-Hello and welcome to my GitHub! My name is Leonardo Augusto, I am an Android engineer with a strong knowledge of building high-performance and user-friendly mobile applications that push the boundaries of what's visually possible. I also have experience in developing Web and Windows-desktop solutions. In terms of preferences, I have a passion for developing solutions focused on sustainability, Animal conservation, renewable energy, IoT, and health. I also enjoy creating applications and games for the educational industry.
+Senior software engineer  with expertise in building high-performance, user-friendly mobile applications that push the boundaries of visual possibilities. I also have experience developing web and Windows desktop solutions. I am passionate about creating solutions that focus on sustainability, animal conservation, renewable energy, IoT, and health. Currently, I am working on projects integrating Gen-AI and mentoring new developers by providing comprehensive training in React Native.
+
+Expertise in:
+* ✔️ Expo | React Native 
+* ✔️ IONIC React
+* ✔️ Android and IOS development
+* ✔️ Native and hybrid development
+* ✔️ Figma | Penpot | UI |UX Design
+* ✔️ Gen-A.I
+
+Other skills: 
+* ✔️ Experience working remotely using Agile methodologies.
+* ✔️ Independent problem-solver, always proactive and eager to build solutions that address problems or improve people's quality of life.
+* ✔️ Passionate about writing well-designed, testable, and efficient code.
+* ✔️ A self-taught and curious person with a passion for creating and building things.
+* ✔️ Currently learning about embedded systems
 <div>
 
 ```javascript
 const binaryleo = {
-  title: ["Mobile developer", "Android developer"],
+  title: ["Mobile developer", "Android developer", "Swift developer"],
   language: ["PT-BR 🇧🇷", "EN 🇨🇦", "NOR 🇳🇴", "FR 🇫🇷"],
   askMeAbout: ["Mobile development", "UI","Figma"],
-  tech-stack: ["Javascript","Typescript","Kotlin","C","C++","C#","ReactJS","React Native","Jetpack Compose"]
+  tech-stack: ["Javascript","Typescript","Kotlin","C","C++","ReactJS","React Native","Jetpack Compose"]
   
 };
 

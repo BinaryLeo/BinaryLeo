@@ -35,15 +35,7 @@ const binaryleo = {
 
 
 ```
-
-
-
-
-![Group 699-2](https://github.com/user-attachments/assets/5f8edb93-46d3-4f66-8e93-2a41b2e6a7b4)
-
-
-
-
+![Group 699-3](https://github.com/user-attachments/assets/6b720e69-720b-4f51-8aee-f70042e2ce98)
 
 
 </div>

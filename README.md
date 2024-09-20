@@ -14,7 +14,7 @@ Expertise in:
 * ✔️ Android and IOS development
 * ✔️ Native and hybrid development
 * ✔️ Figma | Penpot | UI |UX Design
-* ✔️ Gen-A.I
+* ✔️ Gen-A.I | Prompt Engineering | ANN
 
 Other skills: 
 * ✔️ Experience working remotely using Agile methodologies.
@@ -26,7 +26,7 @@ Other skills:
 
 ```javascript
 const binaryleo = {
-  title: ["Mobile developer", "Android developer", "Swift developer"],
+  title: ["Team lead","Mobile developer", "Android developer", "Swift developer"],
   language: ["PT-BR 🇧🇷", "EN 🇨🇦", "NOR 🇳🇴", "FR 🇫🇷"],
   askMeAbout: ["Mobile development", "UI","Figma"],
   tech-stack: ["Javascript","Typescript","Kotlin","C","C++","ReactJS","React Native","Jetpack Compose"]

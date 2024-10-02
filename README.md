@@ -15,6 +15,7 @@ Expertise in:
 * ✔️ Native and hybrid development
 * ✔️ Figma | Penpot | UI |UX Design
 * ✔️ Gen-A.I | Prompt Engineering | ANN
+* ✔️ Rust
 
 Other skills: 
 * ✔️ Experience working remotely using Agile methodologies.
